@@ -1,0 +1,15 @@
+{
+  "name": "arcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-encrypted-wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.10.18",
+    "crypto-js": "^4.1.1"
+  }
+}
