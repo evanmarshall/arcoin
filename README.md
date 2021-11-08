@@ -2,7 +2,7 @@
 
 This repo is intended to create a cold wallet that can be uploaded to the ARWeave network
 
-This code is designed to be crypographically secure but it has not been security audited and use at your own risk. You can always check the QRCode in the Example Usage below. If the balance is 0, this code has probably been exploited. 
+This code is designed to be crypographically secure but it has not been security audited and use at your own risk. You can always check the QRCode in the Example Usage below. If the balance is 0, this code has probably been exploited. You can check the example directly here: https://viewblock.io/arweave/address/2Va-SX_D735R43aX_xWSEQih4lEH5LvsdsemvtXCyf4 
 
 ## Inspiration
 
