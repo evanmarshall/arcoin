@@ -22,3 +22,14 @@ Once you have the secret password which is 64 characters long & the public arwea
 2. Run `node generate-encrypted-wallet.js`. 
 This will output a securely randomly generated password. You will need to save the password as it is the only way to ever recover the private key.
 3. Upload `./build/index.html` using ARDrive or ARKB. 
+
+
+## Example Usage
+
+Using this tool, I created the first ARCoin. The coin consists of 3 layers. 
+1. The top layer is only for decoration and letting people know it's an ARCoin.
+![front-view](https://user-images.githubusercontent.com/1102811/140691526-8c583b7f-0e38-4011-8072-539e3e3616c2.png)
+2. The middle layer contains the secret password. It can only be seen by destorying the key.
+![side-view](https://user-images.githubusercontent.com/1102811/140691546-c137bb89-9d24-429f-8659-e122e9223e0a.png)
+3. The back layer contains a qr code linking to the arweave-uploaded `index.html`
+![back-view](https://user-images.githubusercontent.com/1102811/140691635-a4f8e85b-d156-459c-8f6c-1e5384c75f8d.png)
